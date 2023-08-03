@@ -6,7 +6,7 @@ The folders in this repo are arranged by topic, hopefully you'll learn something
 * An introduction to boot process in linux
 
 ### AWS
-*Installing the aws cli
+* Installing the aws cli
 
 ### Python
 * Basics of python for data scientists
@@ -17,4 +17,4 @@ The folders in this repo are arranged by topic, hopefully you'll learn something
 * Introduction to the US census 2020 using alabama county data
 * How to deal with missing data in R
 * WASH data analysis using R
-* 
+  
